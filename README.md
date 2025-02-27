@@ -1,19 +1,23 @@
-# About
+# 📂 File Manager Project
 
-In January 2023, during my internship, I was tasked with developing this file manager as my first experience with PHP. \ 
-The company challenged me to complete it within three-day deadline. I'm excited to share the results here!
+## About This Project
 
-### Options
- - Browse on computer
- - create 
- - remove 
- - rename 
- - edit (only files)
- - copy 
- - move 
- 
- ### Components
+In **January 2023**, during my internship, I embarked on developing this File Manager as my inaugural venture into PHP programming. \
+The company presented me with the exciting challenge of completing this project within a **three-day deadline**. I'm thrilled to share the outcome with you! 🚀
 
- :heavy_check_mark: routing <br>
- :heavy_check_mark: controller <br>
- :heavy_check_mark: view <br>
+## 🎯 Features
+
+- 🗂️ **Browse**: Navigate through directories seamlessly.
+- ➕ **Create**: Add new files and folders effortlessly.
+- ❌ **Remove**: Delete unwanted items with ease.
+- ✏️ **Rename**: Modify names of files and directories.
+- 📝 **Edit**: Directly edit file contents within the interface.
+- 📄 **Copy**: Duplicate files and folders.
+- 🔀 **Move**: Transfer items to different locations.
+
+## 🛠️ Concepts Explored
+
+- :heavy_check_mark: **Routing**: Implemented efficient URL routing mechanisms.
+- :heavy_check_mark: **Controller**: Developed controllers to handle user requests and responses.
+- :heavy_check_mark: **View**: Created dynamic views for user interaction.
+
