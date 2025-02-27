@@ -1,7 +1,7 @@
 # About
 
-This file manager was developed during my internship as a fun and challenging task assigned by the company. \
-I was given a deadline of just three days to complete it, and I'm proud to present the result here! 🚀
+In January 2023, during my internship, I was tasked with developing this file manager as my first experience with PHP. \ 
+The company challenged me to complete it within three-day deadline. I'm excited to share the results here!
 
 ### Options
  - Browse on computer
