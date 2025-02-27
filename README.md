@@ -1,4 +1,8 @@
-# simple file manager for begginers
+# About
+
+This file manager was developed during my internship as a fun and challenging task assigned by the company. \
+I was given a deadline of just three days to complete it, and I'm proud to present the result here! 🚀
+
 ### Options
  - Browse on computer
  - create 
